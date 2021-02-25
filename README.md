@@ -1,5 +1,8 @@
 # MiCM Workshop: Python - Beyond the Basics (Winter 2021)
 
+**Instructor:** Eisha Ahmed
+**Date:** February 25, 2021, 1:00pm - 5:00pm EST
+
 ## Workshop Overview
 Python is a general-purpose language popular in data science, machine learning, and computational biology. This workshop targets beginner Python programmers already familiar with the fundamentals.
 
